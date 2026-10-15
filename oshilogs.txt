@@ -12,73 +12,74 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Wilna =====
-[1]Wilna       |08:04:41 | 14-10-2026| login OK @swilnaa | score=1140 rank=5299
-[1]Wilna       |08:04:41 | 14-10-2026| serverTime=2026-10-14T08:04:41.000Z local=2026-10-14T08:04:41.517Z
+[1]Wilna       |07:45:56 | 15-10-2026| login OK @swilnaa | score=1190 rank=5280
+[1]Wilna       |07:45:56 | 15-10-2026| serverTime=2026-10-15T07:45:56.000Z local=2026-10-15T07:45:56.451Z
 --> [1]Wilna menjalankan: Claim Daily
-[1]Wilna       |08:04:42 | 14-10-2026| daily: OK +10 poin score=1150
---> [1]Wilna menjalankan: Auto All Tasks (4 pending)
-[1]Wilna       |08:04:44 | 14-10-2026| [1/4] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/swilnaa/status/2110280086158419918
-[1]Wilna       |08:04:44 | 14-10-2026| delay 10s...
-[1]Wilna       |08:04:56 | 14-10-2026| [2/4] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Wilna       |08:04:56 | 14-10-2026| delay 10s...
-[1]Wilna       |08:05:08 | 14-10-2026| [3/4] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/swilnaa/status/2110280182388692621
-[1]Wilna       |08:05:08 | 14-10-2026| delay 10s...
-[1]Wilna       |08:05:21 | 14-10-2026| [4/4] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/swilnaa/status/2110280433884604724
-[1]Wilna       |08:05:21 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Wilna       |08:05:23 | 14-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/swilnaa/status/2110280400245552885
+[1]Wilna       |07:45:57 | 15-10-2026| daily: OK +10 poin score=1200
+--> [1]Wilna menjalankan: Auto All Tasks (5 pending)
+[1]Wilna       |07:45:59 | 15-10-2026| [1/5] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/swilnaa/status/2110637813779932746
+[1]Wilna       |07:45:59 | 15-10-2026| delay 10s...
+[1]Wilna       |07:46:12 | 15-10-2026| [2/5] ec8513a4 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109
+[1]Wilna       |07:46:12 | 15-10-2026| delay 10s...
+[1]Wilna       |07:46:24 | 15-10-2026| [3/5] 1e029da8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/swilnaa/status/2110638067023058126
+[1]Wilna       |07:46:24 | 15-10-2026| delay 10s...
+[1]Wilna       |07:46:36 | 15-10-2026| [4/5] e41210a5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/swilnaa/status/2110638155326619411
+[1]Wilna       |07:46:36 | 15-10-2026| delay 10s...
+[1]Wilna       |07:46:48 | 15-10-2026| [5/5] 6ee55c06 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/swilnaa/status/2110638104998936978
+[1]Wilna       |07:46:48 | 15-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Wilna       |07:46:49 | 15-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174412101091 | proof=https://x.com/swilnaa/status/2110637958704926908
 --> [1]Wilna menjalankan: Watch Anime
-[1]Wilna       |08:05:24 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Wilna       |08:05:24 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Wilna       |07:46:50 | 15-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Wilna       |07:46:50 | 15-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Wilna       |08:05:25 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Wilna       |08:05:30 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Wilna       |08:05:32 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Wilna       |08:05:37 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Wilna       |08:05:39 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Wilna       |07:46:52 | 15-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Wilna       |07:46:57 | 15-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Wilna       |07:46:59 | 15-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Wilna       |07:47:04 | 15-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Wilna       |07:47:07 | 15-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Wilna menjalankan: Read Article
-[1]Wilna       |08:05:40 | 14-10-2026| news: 24/25 artikel selesai dibaca
-[1]Wilna       |08:05:41 | 14-10-2026| mint eligibility: {"userId":"1918436167290372096","youtube":{"url":"https://www.youtube.com/@swilnaa","status":"submitted","revision":"6aef8069-82a4-4f39-80d0-5ba2645bd503","submittedAt":1791682111,"reviewedAt":1791692
-[1]Wilna       |08:05:48 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
+[1]Wilna       |07:47:08 | 15-10-2026| news: 25/26 artikel selesai dibaca
+[1]Wilna       |07:47:09 | 15-10-2026| mint eligibility: {"userId":"1918436167290372096","youtube":{"url":"https://www.youtube.com/@swilnaa","status":"submitted","revision":"6aef8069-82a4-4f39-80d0-5ba2645bd503","submittedAt":1791682111,"reviewedAt":1791692
+[1]Wilna       |07:47:16 | 15-10-2026| news [1/1] 100-friends-connected-by-what-we-love: OK completed=26
 --> [1]Wilna menjalankan: Quiz Anime
-[1]Wilna       |08:05:51 | 14-10-2026| quiz ep1: sudah dijawab
-[1]Wilna       |08:05:51 | 14-10-2026| quiz ep2: sudah dijawab
-[1]Wilna       |08:05:51 | 14-10-2026| quiz ep3: sudah dijawab
-[1]Wilna       |08:05:51 | 14-10-2026| quiz ep4: sudah dijawab
-[1]Wilna       |08:05:51 | 14-10-2026| quiz ep5: sudah dijawab
-[1]Wilna       |08:05:51 | 14-10-2026| quiz ep6: sudah dijawab
+[1]Wilna       |07:47:19 | 15-10-2026| quiz ep1: sudah dijawab
+[1]Wilna       |07:47:19 | 15-10-2026| quiz ep2: sudah dijawab
+[1]Wilna       |07:47:19 | 15-10-2026| quiz ep3: sudah dijawab
+[1]Wilna       |07:47:19 | 15-10-2026| quiz ep4: sudah dijawab
+[1]Wilna       |07:47:19 | 15-10-2026| quiz ep5: sudah dijawab
+[1]Wilna       |07:47:19 | 15-10-2026| quiz ep6: sudah dijawab
 --> [1]Wilna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Wilna       |08:05:53 | 14-10-2026| music: kedua misi sudah tercapai, stop
-[1]Wilna       |08:05:53 | 14-10-2026| mission music-listens-10: sudah diklaim
-[1]Wilna       |08:05:53 | 14-10-2026| mission music-minutes-30: sudah diklaim
-[1]Wilna       |08:05:53 | 14-10-2026| mission anime-completed-3: sudah diklaim
+[1]Wilna       |07:47:21 | 15-10-2026| music: kedua misi sudah tercapai, stop
+[1]Wilna       |07:47:21 | 15-10-2026| mission music-listens-10: sudah diklaim
+[1]Wilna       |07:47:21 | 15-10-2026| mission music-minutes-30: sudah diklaim
+[1]Wilna       |07:47:21 | 15-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Wilna menjalankan: Claim Missions
-[1]Wilna       |08:05:54 | 14-10-2026| mission music-listens-10: sudah diklaim
-[1]Wilna       |08:05:54 | 14-10-2026| mission music-minutes-30: sudah diklaim
-[1]Wilna       |08:05:54 | 14-10-2026| mission anime-completed-3: sudah diklaim
+[1]Wilna       |07:47:22 | 15-10-2026| mission music-listens-10: sudah diklaim
+[1]Wilna       |07:47:22 | 15-10-2026| mission music-minutes-30: sudah diklaim
+[1]Wilna       |07:47:22 | 15-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Wilna menjalankan: Check Eligibility
 
 --- eligibility [1]Wilna ---
-  @swilnaa | score=1140 rank=5299
-  tasks    [###################-] 76/80
+  @swilnaa | score=1190 rank=5280
+  tasks    [###################-] 72/77
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 25/25
+  artikel  [####################] 26/26
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Wilna menjalankan: Read Manga
-[1]Wilna       |08:05:58 | 14-10-2026| manga: 0/13 chapter belum completed
+[1]Wilna       |07:47:26 | 15-10-2026| manga: 0/13 chapter belum completed
 --> [1]Wilna menjalankan: Get Gift
-[1]Wilna       |08:05:59 | 14-10-2026| gift: 1/4 belum diterima
-[1]Wilna       |08:06:00 | 14-10-2026| gift [1/1] Silver Oshii: OK
+[1]Wilna       |07:47:26 | 15-10-2026| gift: 0/4 belum diterima
 --> [1]Wilna menjalankan: Setup Profile
-[1]Wilna       |08:06:02 | 14-10-2026| profile: bio="https://x.com/swilnaa" fav=yuki rewardAt=1791693808
-[1]Wilna       |08:06:02 | 14-10-2026| profile: bonus sudah diklaim, skip
+[1]Wilna       |07:47:27 | 15-10-2026| profile: bio="https://x.com/swilnaa" fav=yuki rewardAt=1791693808
+[1]Wilna       |07:47:27 | 15-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Wilna menjalankan: Bind Wallet
-[1]Wilna       |08:06:03 | 14-10-2026| wallet: sudah terikat 6GDJYtvCaV... (solana)
+[1]Wilna       |07:47:28 | 15-10-2026| wallet: sudah terikat 6GDJYtvCaV... (solana)
 
 == RINGKASAN ==
-- Wilna: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
+- Wilna: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
