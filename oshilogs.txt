@@ -12,56 +12,56 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Wilna =====
-[1]Wilna       |14:43:23 | 24-11-2026| login OK @swilnaa | score=3510 rank=2166
-[1]Wilna       |14:43:23 | 24-11-2026| serverTime=2026-11-24T14:43:22.000Z local=2026-11-24T14:43:23.283Z
+[1]Wilna       |14:07:19 | 25-11-2026| login OK @swilnaa | score=3530 rank=2161
+[1]Wilna       |14:07:19 | 25-11-2026| serverTime=2026-11-25T14:07:19.000Z local=2026-11-25T14:07:19.620Z
 --> [1]Wilna menjalankan: Claim Daily
-[1]Wilna       |14:43:24 | 24-11-2026| daily: OK +10 poin score=3520
+[1]Wilna       |14:07:21 | 25-11-2026| daily: OK +10 poin score=3540
 --> [1]Wilna menjalankan: Auto All Tasks (1 pending)
-[1]Wilna       |14:43:26 | 24-11-2026| [1/1] cccd5ab3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"cccd5ab3-5ad0-4da3-b8ca-e11d4e5a0b0a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212520381338896 | proof=https://x.com/swilnaa/status/2125238387929514964
-[1]Wilna       |14:43:26 | 24-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Wilna       |14:43:27 | 24-11-2026| [1/1] cccd5ab3 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"cccd5ab3-5ad0-4da3-b8ca-e11d4e5a0b0a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125203813388960 | proof=https://x.com/swilnaa/status/2125238361322243793
+[1]Wilna       |14:07:23 | 25-11-2026| [1/1] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212545341837459 | proof=https://x.com/swilnaa/status/2125591674642456334
+[1]Wilna       |14:07:23 | 25-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Wilna       |14:07:24 | 25-11-2026| [1/1] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125453418374590 | proof=https://x.com/swilnaa/status/2125591704267072422
 --> [1]Wilna menjalankan: Watch Anime
-[1]Wilna       |14:43:27 | 24-11-2026| watch: semua video sudah completed
+[1]Wilna       |14:07:25 | 25-11-2026| watch: semua video sudah completed
 --> [1]Wilna menjalankan: Read Article
-[1]Wilna       |14:43:28 | 24-11-2026| news: 34/34 artikel selesai dibaca
-[1]Wilna       |14:43:28 | 24-11-2026| mint eligibility: {"userId":"1918436167290372096","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@swilnaa","status":"submitted","revision":"6aef8069-82a4-4f39-80d0-5ba2645bd503",
-[1]Wilna       |14:43:28 | 24-11-2026| news: semua artikel sudah dibaca
+[1]Wilna       |14:07:26 | 25-11-2026| news: 34/35 artikel selesai dibaca
+[1]Wilna       |14:07:26 | 25-11-2026| mint eligibility: {"userId":"1918436167290372096","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@swilnaa","status":"submitted","revision":"6aef8069-82a4-4f39-80d0-5ba2645bd503",
+[1]Wilna       |14:07:32 | 25-11-2026| news [1/1] sbi-solana-global-2026-11: OK completed=35
 --> [1]Wilna menjalankan: Quiz Anime
 --> [1]Wilna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Wilna       |14:43:29 | 24-11-2026| music: kedua misi sudah tercapai, stop
-[1]Wilna       |14:43:30 | 24-11-2026| mission music-listens-10: sudah diklaim
-[1]Wilna       |14:43:30 | 24-11-2026| mission music-minutes-30: sudah diklaim
-[1]Wilna       |14:43:30 | 24-11-2026| mission anime-completed-3: sudah diklaim
+[1]Wilna       |14:07:36 | 25-11-2026| music: kedua misi sudah tercapai, stop
+[1]Wilna       |14:07:37 | 25-11-2026| mission music-listens-10: sudah diklaim
+[1]Wilna       |14:07:37 | 25-11-2026| mission music-minutes-30: sudah diklaim
+[1]Wilna       |14:07:37 | 25-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Wilna menjalankan: Claim Missions
-[1]Wilna       |14:43:30 | 24-11-2026| mission music-listens-10: sudah diklaim
-[1]Wilna       |14:43:30 | 24-11-2026| mission music-minutes-30: sudah diklaim
-[1]Wilna       |14:43:30 | 24-11-2026| mission anime-completed-3: sudah diklaim
+[1]Wilna       |14:07:37 | 25-11-2026| mission music-listens-10: sudah diklaim
+[1]Wilna       |14:07:37 | 25-11-2026| mission music-minutes-30: sudah diklaim
+[1]Wilna       |14:07:37 | 25-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Wilna menjalankan: Check Eligibility
 
 --- eligibility [1]Wilna ---
-  @swilnaa | score=3510 rank=2166
-  tasks    [#################---] 6/7
+  @swilnaa | score=3530 rank=2161
+  tasks    [################----] 4/5
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [#################---] 11/13
-  artikel  [####################] 34/34
+  artikel  [####################] 35/35
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Wilna menjalankan: Read Manga
-[1]Wilna       |14:43:32 | 24-11-2026| manga: 0/13 chapter belum completed
+[1]Wilna       |14:07:40 | 25-11-2026| manga: 0/13 chapter belum completed
 --> [1]Wilna menjalankan: Get Gift
-[1]Wilna       |14:43:34 | 24-11-2026| gift: 3/12 belum diterima
-[1]Wilna       |14:43:34 | 24-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Wilna       |14:43:37 | 24-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Wilna       |14:43:40 | 24-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Wilna       |14:07:41 | 25-11-2026| gift: 3/12 belum diterima
+[1]Wilna       |14:07:42 | 25-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Wilna       |14:07:45 | 25-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Wilna       |14:07:48 | 25-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Wilna menjalankan: Setup Profile
-[1]Wilna       |14:43:42 | 24-11-2026| profile: bio="https://x.com/swilnaa" fav=yuki rewardAt=1791693808
-[1]Wilna       |14:43:42 | 24-11-2026| profile: bonus sudah diklaim, skip
+[1]Wilna       |14:07:50 | 25-11-2026| profile: bio="https://x.com/swilnaa" fav=yuki rewardAt=1791693808
+[1]Wilna       |14:07:50 | 25-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Wilna menjalankan: Bind Wallet
-[1]Wilna       |14:43:42 | 24-11-2026| wallet: sudah terikat 6GDJYtvCaV... (solana)
+[1]Wilna       |14:07:51 | 25-11-2026| wallet: sudah terikat 6GDJYtvCaV... (solana)
 
 == RINGKASAN ==
-- Wilna: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Wilna: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
